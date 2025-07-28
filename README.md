@@ -73,7 +73,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"/>
+<img src="https://laravel.com/img/logomark.min.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
   <img width="12" />
@@ -89,11 +89,12 @@
 <h3 align="left">🔗 Blockchain Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="ethereum logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" height="40" alt="ethereum logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" height="40" alt="solana logo"/>
   <img width="12" />
-  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="40" alt="hardhat logo"/>
+<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="40" alt="hardhat logo" />
+
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/60893336?s=200&v=4" height="40" alt="anchor logo"/>
 </div>
