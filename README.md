@@ -75,8 +75,6 @@
   <img width="12" />
 <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"/>
@@ -93,10 +91,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" height="40" alt="solana logo"/>
   <img width="12" />
-<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="40" alt="hardhat logo" />
-
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/60893336?s=200&v=4" height="40" alt="anchor logo"/>
 </div>
 
 ###
@@ -106,5 +100,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=ShivahariRukesh" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShivahariRukesh&show_icons=true&theme=dark" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivahariRukesh&layout=compact&theme=dark" height="200"/>
 </div>
