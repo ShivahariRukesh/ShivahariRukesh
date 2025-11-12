@@ -97,8 +97,8 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivahariRukesh&show_icons=true&theme=dark" height="200"/>
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=ShivahariRukesh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="200"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ShivahariRukesh&show_icons=true&theme=dark" height="200"/> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=ShivahariRukesh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="200"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivahariRukesh&layout=compact&theme=dark" height="200"/>
 </div>
