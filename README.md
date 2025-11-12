@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="https://media.wired.com/photos/59332658d80dd005b42b1392/master/pass/output_RqcvgG.gif" alt="gif" />
+<img height="150" width="300" src="[https://media.wired.com/photos/59332658d80dd005b42b1392/master/pass/output_RqcvgG.gif](https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif)" alt="gif" />
 </div>
 
 ###
@@ -19,11 +19,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivahariRukesh"  />
 </div>
 
-###
 
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👤  About Me</h3>
 
