@@ -18,7 +18,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivahariRukesh"  />
 </div>
 
-- This is the [url](https://gist.github.com/ShivahariRukesh/db21b3a71db3be1e447ebbcfb08607bd).
+
 
 <h3 align="left">👤  About Me</h3>
 
