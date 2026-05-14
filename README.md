@@ -71,7 +71,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
+    <img width="12" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" height="40" alt="flutter logo" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
 </div>
 
 ###
