@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a passionate developer from Nepal 🇳🇵<br><br>- 🔭 I’m currently open to work opportunities<br>- 📚 I'm currently learning advanced Blockchain protocols and system design<br>- 🧠 I’ve worked as:<br>&nbsp;&nbsp;&nbsp;&nbsp;- Blockchain Developer (Ethereum & Solana)<br>&nbsp;&nbsp;&nbsp;&nbsp;- Backend Intern (PHP Laravel)<br>&nbsp;&nbsp;&nbsp;&nbsp;- Frontend Intern (React)<br>- ⚡ In my free time I love exploring new frameworks, contributing to open-source, and solving DSA problems</p>
+<p align="left">I'm a passionate developer from Nepal 🇳🇵<br><br>- 🔭 I’m currently open to work opportunities<br>- 📚 I'm currently learning advanced Blockchain protocols and system design<br>- 🧠 I’ve worked as:<br>&nbsp;&nbsp;&nbsp;&nbsp;- Mobile Developer (Flutter & ReactNative)<br>&nbsp;&nbsp;&nbsp;&nbsp;- Blockchain Developer (Ethereum & Solana)<br>&nbsp;&nbsp;&nbsp;&nbsp;- Backend Intern (PHP Laravel)<br>&nbsp;&nbsp;&nbsp;&nbsp;- Frontend Developer (React)<br>- ⚡ In my free time I love exploring new frameworks, contributing to open-source, and solving DSA problems</p>
 
 ###
 
